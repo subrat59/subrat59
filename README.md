@@ -7,8 +7,8 @@
 <p align="center">
   
   <a href="https://subratportfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Website-0b1120?style=for-the-badge&logo=google-chrome&logoColor=white" />
-    <a/>.
+    <img src="https://img.shields.io/badge/subrat.dev-0b1120?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+  <a/>.
   <a href="https://linkedin.com/in/subrat-k-swain">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>.
