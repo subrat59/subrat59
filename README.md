@@ -7,13 +7,13 @@
 <p align="center">
   
   <a href="https://subratportfolio.vercel.app">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" width="30"/>
+    <img src="https://skillicons.dev/icons?i=web" />
   <a/>.
   <a href="https://linkedin.com/in/subrat-k-swain">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="30" style="filter: invert(1);" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>.
   <a href="mailto:subrat.k.swain03@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="30" style="filter: invert(1);" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
