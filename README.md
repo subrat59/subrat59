@@ -5,9 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="https://subratportfolio.com">🌐 Portfolio</a> •
-  <a href="https://linkedin.com/in/subrat-k-swain">LinkedIn</a> •
-  <a href="mailto:subrat.k.swain03@gmail.com">Email</a>
+  <a href="https://subratportfolio.vercel.app">🌐 Portfolio</a> •
+  <a href="https://linkedin.com/in/subrat-k-swain">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:subrat.k.swain03@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
 ---
