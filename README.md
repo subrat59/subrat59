@@ -5,70 +5,61 @@
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">🌐 Portfolio</a> •
-  <a href="https://github.com/yourusername">GitHub</a> •
-  <a href="https://linkedin.com/in/yourusername">LinkedIn</a>
+  <a href="https://your-portfolio-link.com">🌐 Portfolio</a> •
+  <a href="https://linkedin.com/in/yourusername">LinkedIn</a> •
+  <a href="mailto:your@email.com">Email</a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- ⚙️ Backend Engineer working with C++ and scalable systems  
-- 💳 Building resilient payment systems (idempotency, retries, failure handling)  
-- 🔁 Exploring event-driven architecture using Kafka  
-- 🐳 Learning Docker and modern backend infrastructure  
+Backend engineer focused on building reliable and scalable systems.
+
+- ⚙️ Working with C++ and backend architectures  
+- 💳 Designing payment systems with idempotency and failure handling  
+- 🔁 Exploring event-driven systems using Kafka  
+- 🐳 Learning Docker and modern backend tooling  
 - 🏢 Currently working on insurance platforms at Sapiens  
 
 ---
 
 ## 🛠️ Tech Stack
 
+### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,nodejs,mongodb,docker,js,ts,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
+</p>
+
+### Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux" />
 </p>
 
 ---
 
-## 🔥 Featured Project
+## 🎯 Current Focus
 
-### 💳 Resilient Payment Processing System
-
-- Secure payment flow with gateway integration  
-- Implemented idempotent APIs to prevent duplicate transactions  
-- Designed state machine for payment lifecycle  
-- Kafka-based async notification system  
+- Distributed systems  
+- Payment architecture  
+- Backend performance optimization  
+- Debugging complex systems  
 
 ---
 
+## 🌱 Currently Learning
 
-
----
-
-## 📈 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
+- Advanced system design  
+- Event-driven architecture (Kafka)  
+- Containerization and deployment  
 
 ---
 
 <p align="center">
-  ⚡ Focused on building reliable backend systems and solving real-world problems
+  ⚡ Building systems that are reliable, scalable, and production-ready
 </p>
