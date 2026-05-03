@@ -7,13 +7,13 @@
 <p align="center">
   
   <a href="https://subratportfolio.vercel.app">
-    <img src="https://img.shields.io/badge/subrat.dev-0b1120?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/internetexplorer.svg" width="28" />
   <a/>.
   <a href="https://linkedin.com/in/subrat-k-swain">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="28" />
   </a>.
   <a href="mailto:subrat.k.swain03@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="28" />
   </a>
 </p>
 
